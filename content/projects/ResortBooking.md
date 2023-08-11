@@ -1,5 +1,5 @@
 ---
-date: '2023-2-30'
+date: '2023-02-30'
 title: 'Resort Management and Booking system'
 github: 'https://github.com/stars/miidlaj/lists/locus-haunt'
 external: 'https://www.registry.locus.commercefox.tk'
