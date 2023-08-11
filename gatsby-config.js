@@ -5,7 +5,7 @@ module.exports = {
     title: 'Muhammed Midlaj',
     description:
       'Highly skilled web developer experienced in Java, JavaScript, Typescript HTML, and CSS. Have knowledge of popular frameworks such as Spring Boot React, Express, NodeJS and experience with Microservices, MVC, and REST APIs',
-    siteUrl: 'https://midlaj.com', // No trailing slash allowed!
+    siteUrl: 'https://portfolio-no7p.onrender.com/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@midl_aj',
   },
