@@ -11,3 +11,6 @@ tech:
 company: 'Personal'
 showInProjects: true
 ---
+
+Developed an simple Collection application using NodeJs, ReactJs and MongoDB allowing user to manage
+customers monthly rent payments.
