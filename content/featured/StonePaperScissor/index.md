@@ -12,7 +12,7 @@ tech:
   - Socket.io
 ---
 
-Developed an Netflix clone application using [ReactJS](https://www.reactjs.org) and [TMDB API](https://developer.themoviedb.org/) allowing users to browse films based on
+Developed a Netflix clone application using [ReactJS](https://www.reactjs.org) and [TMDB API](https://developer.themoviedb.org/) allowing users to browse films based on
 different categories.
 
 User can also watch trailers of movies.

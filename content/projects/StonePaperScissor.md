@@ -14,4 +14,4 @@ company: 'Personal'
 showInProjects: true
 ---
 
-Developed an simple multiplayer rock paper scissor game using NodeJs, ReactJs and Socket.io allowing users to play game each other. Users can join through link created by a friend or can play with random strangers.
+Developed a simple multiplayer rock paper scissor game using NodeJs, ReactJs and Socket.io allowing users to play game each other. Users can join through link created by a friend or can play with random strangers.

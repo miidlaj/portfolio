@@ -12,4 +12,4 @@ company: Brototype
 showInProjects: true
 ---
 
-Developed an OLX clone application using ReactJs and Firebase allowing users to list their products to sell.
+Developed a OLX clone application using ReactJs and Firebase allowing users to list their products to sell.

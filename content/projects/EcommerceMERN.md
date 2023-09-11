@@ -12,4 +12,4 @@ company: 'Personal'
 showInProjects: true
 ---
 
-Developed an simple E-commerce application using NodeJs, ReactJs and MongoDB allowing to add, edit, delete and update products.
+Developed a simple E-commerce application using NodeJs, ReactJs and MongoDB allowing to add, edit, delete and update products.

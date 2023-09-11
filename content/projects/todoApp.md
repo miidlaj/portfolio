@@ -13,5 +13,5 @@ company: 'Self'
 showInProjects: true
 ---
 
-Developed an simple TODO application using NodeJs, ReactJs and MongoDB allowing to add, edit, delete and
+Developed a simple TODO application using NodeJs, ReactJs and MongoDB allowing to add, edit, delete and
 update todos. User can also check the completed todos.

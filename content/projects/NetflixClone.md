@@ -12,5 +12,5 @@ company: 'Brototype'
 showInProjects: true
 ---
 
-Developed an Netflix clone application using ReactJs and TMDB api allowing users to browse films based on
+Developed a Netflix clone application using ReactJs and TMDB api allowing users to browse films based on
 different categories. User can also watch trailers of movies.
